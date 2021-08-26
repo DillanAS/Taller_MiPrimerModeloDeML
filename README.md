@@ -5,3 +5,5 @@ Este repositorio contiene una base de datos en formato .csv y un archivo de pyth
 En el taller se desarolló una aplicación sencilla e introductoria a modelos supervisados de aprendizaje automático para clasificar usuarios bancarios.
 
 ¡Síentete libre de utilizar y experimentar con el código!
+
+📫 How to reach me: On TW as @dillan_as22 or on Linkedin as /dillanas22
